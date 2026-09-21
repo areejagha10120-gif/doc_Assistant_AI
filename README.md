@@ -18,6 +18,12 @@ It supports:
 - Groq-powered answers
 - Retrieved source chunks with filename and page information
 - Streamlit session state and caching so document embeddings are not recreated for every question
+  
+##   Live Demo
+
+  **Try the application here:**
+
+  [Doc-Asistant](https://docassistantai-bo7xport7hxgety5oqkkuw.streamlit.app/)
 
 ## Project files
 
